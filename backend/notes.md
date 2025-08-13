@@ -52,6 +52,7 @@
  - **@SpringBootApplication** is used to define a Spring Boot application, combining several annotations such as Configuration, EnableAutoConfiguration and ComponentScan
  - **@Entity** specifies a class has a JPA entity
  - **@Table** specifies table details
+ - **@CrossOrigin("*")** - all clients can be able to access these REST APIs
 
 ## ResponseEntity Class
 - represents the whole http response, status code, headers, and body. This can be used to fully configure the http response
