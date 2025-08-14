@@ -106,3 +106,8 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## ModelMapper
 - external library used for converting/mapping between JPA entity and DTO
+
+## Spring Security
+- framework that provides authentication, authorisation and protection against common attacks
+- first-class support for securing both web and reactive applications - the de-facto standard for securing spring-based applications
+- used to secure web applications, REST APIs and microservices 
